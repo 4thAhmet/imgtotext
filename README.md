@@ -1,5 +1,5 @@
 
-# Otomata Teorisi Ödevler 2022-2023
+# pytesseract
 Hello,
 My project to read the text on the picture I made using the Pytesseract library
 
